@@ -3,7 +3,7 @@ const products = [
     name: "Semen Tiga Roda",
     price: 60000,
     description: "Semen berkualitas tinggi untuk konstruksi",
-    image: "img/semen.jpg",
+    image: "semen.jpg",
     category: "semen"
   },
   {
